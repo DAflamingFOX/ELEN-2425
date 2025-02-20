@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\ffejs\Documents\ELEN-2425\Lab 3\Lab03_02c.asc
+Start Time: Wed Feb 19 17:54:25 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.088 seconds.
+
