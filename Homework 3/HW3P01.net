@@ -1,0 +1,14 @@
+* C:\Users\ffejs\Documents\ELEN-2425\Homework 3\HW3P01.asc
+V1 N002 N001 6v
+R1 N003 N001 1k
+R2 V0p N003 1k
+R4 V0n V0p 2k
+R3 N004 N001 1k
+V2 N003 0 12
+E§V0 V0 0 V0p V0n 1
+V§I1 N002 V0p 0
+V§I3 V0n 0 0
+V§I2 N004 0 0
+.op
+.backanno
+.end
